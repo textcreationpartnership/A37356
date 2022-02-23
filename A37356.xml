@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Declaration of several baptized believers, walking in all the foundation principles of the doctrine of Christ, mentioned in Heb. 6. 1, 2</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37356</idno>
+            <idno type="STC">Wing D617</idno>
+            <idno type="STC">ESTC R41085</idno>
+            <idno type="EEBO-CITATION">19618153</idno>
+            <idno type="OCLC">ocm 19618153</idno>
+            <idno type="VID">109201</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109201)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1685:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Declaration of several baptized believers, walking in all the foundation principles of the doctrine of Christ, mentioned in Heb. 6. 1, 2</title>
+                  <author>Skipp, Edmund.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at bottom: Ed[m]und Skipp, Henry Grigg, Thomas Helmes ...</note>
+                  <note>Date of imprint suggested by Wing.</note>
+                  <note>Imperfect: cropped and torn with some loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Hebrews VI, 1-2.</term>
+               <term>Anabaptists --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:109201:1"/>
+            <!-- PDF PAGE 5 -->
+            <head>DECLARATION OF Several Baptized Believers, walking in all the Foundation Principles of the Doctrine of Chriſt, mentioned in <hi>Heb.</hi> 6.1, 2.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas there hath been a Paper lately Printed, end publiſhed, in the name of thoſe the World falſly calls Ana<g ref="char:EOLhyphen"/>baptiſts, wherein they conceived themſelves concerned, to declare and publiſh ſomething to the view of all men, by way of vindication of themſelves, from thoſe falſe Accuſations, and Callumnies raiſed againſt them, as by their Declaration, is manifeſted. Yet there being ſomethings owned by them, (as appears unto us) much diſagreeing to the Goſpel of our Lord Jeſus Chriſt, we have thought it our duty to witneſs againſt them therein, as being not according to a Goſpel Spirit, nor the mind of God, neither the conſciences of all thoſe whoſe names were ſet unto that Declaration.</p>
+            <p>And our Reaſons for our thus declaring are;
+<list>
+                  <item>1. For the ſatisſaction of thoſe, who are much troubled at thoſe things, as well as our ſelves, and do not Affect unto them therein.</item>
+                  <item>2. Leſt by that their Declaration, they may be a means to harden any in their way of falſhood, and weaken the hearts and hands of ſuch as are coming out of confuſion, which might be done by their ſeeming too much to approve of a falſe Miniſtry, and their atributing of the word Baptiſme to the Sprinkling of Infants.</item>
+                  <item>3. Becauſe we are upon the account of truth engaged to bear our Teſtimonies, (which we hope we ſhall do to the ſuffering of death) a<g ref="char:EOLhyphen"/>gainſt that Babyloniſh Antichriſtian Worſhip ſtill on foot, and endeavoured to be more exaltod in theſe Nations; It ſtanding directly a<g ref="char:EOLhyphen"/>gainſt the true worſhip of God and truth it ſelf, whereunto once we were inflaved, and from which the Lord through his grace hath diliver<g ref="char:EOLhyphen"/>edus, and which we do believe, God will in Juſtice, and with Judgment, bring down and deſtroy.</item>
+                  <item>4. Becauſe to our grief and trouble, ſome eſpecially of thoſe perſons, who put forth that declaration, are too much leavened through their adherence to that Antichriſtian Miniſtry, and therefore are looked upon by us; as Perſons much corrupted both in Doctrine and Practice.</item>
+               </list>
+            </p>
+            <p>Therefore though we do Aſſent in ſome things with them, in their Declaration, we do notwithſtanding, judge it a duty incumbent up on us, to manifeſt wherein we do Diſſent from them.</p>
+            <p>And thoſe particulars wherein we Diſſent from them are,
+<list>
+                  <item>1. Their owning the National Miniſtry, ſo as to ſtand by it and preſerve it.</item>
+                  <item>2. Their abridgment of Liberty of conſcience to all ſorts of Perſons in theſe Nations, only <hi>Epiſcapacy, Preſbytery,</hi> or any other ſlinted form; which is, as we underſtand, any forme of worſhip the Magiſtrate ſhall ſet up in theſe Nations.</item>
+               </list>
+            </p>
+            <p>Now in the firſt place, as to their owning the National Miniſtry, to ſtand by it and to preſerveit.</p>
+            <p>We do Judge as God hath abundantly made it manifeſt in theſe Nations according to his word; and that to the conſciences of moſt Per<g ref="char:EOLhyphen"/>ſons, who truly fear God. So do we look upon it to be Antichriſtian, having received its being, and maintenence from the Beaſt, and alſo becauſe we are forced againſt our conſciences to maintain it, while we Judge it Babyloniſh; therefore we do in the preſence of God, Angels, and Men, declare againſt it. But as for the Perſous who are exerciſed in this Miniſtry, we do deſire and ſhall endeavour their peace and wel<g ref="char:EOLhyphen"/>being as our own.</p>
+            <p n="2">2. We doe declare, That we would have a full and equall Liberty to be granted, (and that as the Scope of the Goſpel) to all Perſons whatſoever, without Exception of one or other, in the matters of there conſcience in the worſhiping of God; For why ſhould we not give unto another, that we would (in this caſe) injoy our ſelves, or who is he that will Judge another mans conſcience: to his own Maſter, let him ſtand or fall, if any corrupt, or unſound Doctrine, come into the Church, there is the law of Chriſt to deale with them by. But what have the nembers therooſ to do to Judge them that are without, ſurely when peace will be upon the Earth, every man ſhall ſerve his God, and the Saints ſhall walk in the name of the Lord their God, therefore our deſire is, that God may have that glorious prerogative of Judging mens hearts, according to the Goſpel of his Son.</p>
+            <p n="3">3. We do declare, that we own Magiſtracy, to be an Ordinance of God, and it is our deſire to manifeſt our ſubjection, and obedience, in all things civill and lawfull, to all Magiſtrates, whom God doth appoint, and ſet over us in theſe Nations, whoſe work is to be a terror to evill doers, and a praiſe unto them that do well, this we do declare, before the Lord, who will judge both quick and dead, at which time the ungodly. Teachers, and leaders of the People, who make it nothing now to ſpeak lies of us, and render us odious to the people, ſhall them anſwer for all their ungodly deeds, and hard Speeches againſt us.</p>
+            <p n="4">4. We do declare, that although we would have a Tolleration of men in their ſeveral worſhips; Yet we would not have the leaſt. Tolleration of any miſcariages in any perſons in Civill things, much leſs of our ſelves, but we do earneſtly deſire that all unjuſt, diſhoneſt, und evil behaviour againſt men, may be puniſhed, by thoſe who are Magiſtrates, who ought not to bear the ſword in vain, and that accord<g ref="char:EOLhyphen"/>ing to the demerit of the fact, of the offending perſons.</p>
+            <p>
+               <hi>This we have thought good to declare, to all the world, whereby they may ſee our deſire is, according to our prayers, for all that are in Authority<g ref="char:punc">▪</g> that under them, we may live, a peaceable and quiet life in all godlineſs, and honeſty, for we know the law is not made, for the righteous, but for the lawleſs and diſobedient, We hope by this Declaration, we have given no juſt offence, to Iew or Gentile, or the Church of God.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd Skipp.</item>
+                     <item>Henry Grigg.</item>
+                     <item>Thomas Helmes.</item>
+                     <item>Thomas Leader.</item>
+                     <item>William Rider.</item>
+                  </list>
+               </signed>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </closer>
+            <postscript>
+               <head>POST-SCRIPT.</head>
+               <p>That all men may know wherefore we have declared againſt the National Miniſtry, above others in this Nation, is from that ſad experi<g ref="char:EOLhyphen"/>ence we have of their cruel dealings with us in reſpect thereof, forcing of us againſt our conſciences (as we have declared) to main<g ref="char:EOLhyphen"/>tain them, which hath been often diſcovered, and is plain throughout the whole Nation; &amp; one inſtance inſtead of many which we at this time ſhall give you, is the caſe of <hi>William Launce,</hi> and<hi>Nathaniel Allen,</hi> both Baptized perſons, being proſecuted well nigh theſe two yeares for Tythes, by <hi>William Whittaker</hi> Prieſt of <hi>Maudlins</hi> Pariſh in <hi>Southwork,</hi> the ſuite having coſt about threeſcore pounds, for <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> two and forty ſhil<g ref="char:EOLhyphen"/>lings; und the or her of fourteen, and now after all this charge and trouble, both the perſons are liable of being caſt into priſon, the latter, them being a very poor man.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
